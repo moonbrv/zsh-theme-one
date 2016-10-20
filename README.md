@@ -1,4 +1,4 @@
-###moonbrv.one theme
+###moonbrv.one theme for ZSH
 I create this theme by modify another one, very nice looking [nodeys-zsh-theme](https://github.com/marszall87/nodeys-zsh-theme).
 
 But I decide throw away node version, and slightly modify PROMPT, to more simple.
